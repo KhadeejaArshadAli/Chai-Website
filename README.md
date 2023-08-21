@@ -1,5 +1,8 @@
 # Chai-Website- Front-end Only
 
+#Preview
+https://chai-website.netlify.app/
+
 # About
 
 Welcome to [Chai], the front-end-only representation of our chai shop. This project showcases the user interface and design of our online chai shop.
