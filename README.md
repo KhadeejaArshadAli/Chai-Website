@@ -1,6 +1,6 @@
 # Chai-Website- Front-end Only
 
-#Preview
+# Preview
 https://chai-website.netlify.app/
 
 # About
